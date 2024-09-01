@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ font-family: "Space Grotesk", sans-serif;
+}
+body{
+    background-color: #ffff;
+}
+.nav-link{
+    text-align: center;
+    color: black;
+}
+.navbar navbar-expand-lg navbar-light bg-light{
+    background-color: #ffff;
+    color: black;
+}
+.heading{
+    margin-left: 5rem;
+}
+p{
+    flex-wrap: wrap;
+    margin-left: 3rem;
+    margin-top: 0.5rem;
+}
+button{
+    color: #ffff;
+    background-color: black;
+}
+.images{
+ display: flex;
+ margin-left: 2rem;
+ justify-content: space-around;
+}
+.div-content{
+    margin-top: 5rem;
+    margin-left:6rem;
+}
+.sec-main{
+    margin-left: 3rem;
+    justify-content: space-evenly;
+    margin-top: 5rem;
+}
